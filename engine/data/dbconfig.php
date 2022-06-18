@@ -1,9 +1,6 @@
 <?php
-define ("DBHOST", "localhost"); 
-define ("DBNAME", "cwe");
-define ("DBUSER", "root");
-define ("DBPASS", "");  
-define ("PREFIX", "cwe"); 
-define ("USERPREFIX", "cwe");
-define ("COLLATE", "cp1251"); 
+define ("SERVER", "localhost:3306");
+define ("NAME", "cwe");
+define ("USERNAME", "root");
+define ("PASSWORD", "");
 ?>
