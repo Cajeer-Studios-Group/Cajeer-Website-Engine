@@ -13,34 +13,34 @@ ____
  <img src="https://img.shields.io/badge/license-cc%20by--sa%204.0-brightgreen"/>
 </div>
 
-## Демонстрация
+## Demonstration
 Cajeer Engine Kit 2 - https://cajeer.com/csp/cek/demo/ **[УСТАРЕЛО]**
 
 Cajeer Engine Kit 3 - https://cajeer.ru/cek/demo/
 
-## Поддержка и вклады в проект
-### Поддержка
-* Отсутствует
-### Вклады
-* Блог - https://t.me/sf4blog
-* Обсуждение - https://t.me/sf4chat
+## Support and contributions to the project
+### Support
+* Absent
+### Contributions
+* Blog - https://t.me/sf4blog
+* Discussion - https://t.me/sf4chat
 
-## Описание
+## Description
 **** - 
 
-## О проекте
+## About the project
 
 
-## Использование
-Документация - https://github.com/Cajeer-Team/Cajeer-Website-Engine/wiki
+## Usage
+Documentation - https://github.com/Cajeer-Team/Cajeer-Website-Engine/wiki
 
-## Установка
+## Installation
 
 
-## Список изменений
+## List of changes
 **[GitHub Changelog](https://github.com/Cajeer-Team/Cajeer-Website-Engine/blob/main/CHANGELOG.md)**
 
-## Лицензия
+## License
 **[GitHub License](https://github.com/Cajeer-Team/Cajeer-Website-Engine/blob/main/LICENSE.md)**
 
 ____
