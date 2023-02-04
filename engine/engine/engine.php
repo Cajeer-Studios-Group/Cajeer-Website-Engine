@@ -5,14 +5,13 @@
 ------------------------------------------------------------
  https://cajeer.ru/
 ------------------------------------------------------------
- Copyright (c) 2014-2022 Cajeer Team 
+ Copyright (c) 2014-2023 Cajeer Team 
 ============================================================
+ This code is protected by copyright.
  All rights reserved.
  All trademarks are the property of their respective owners.
 ============================================================
  File: engine.php
-------------------------------------------------------------
- Note: Engine file Open-Source CMS
 ============================================================
 */
 

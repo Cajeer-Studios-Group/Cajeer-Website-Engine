@@ -1,4 +1,22 @@
 <?php 
+/*
+============================================================
+ Cajeer Website Engine - by Cajeer Team 
+------------------------------------------------------------
+ https://cajeer.ru/
+------------------------------------------------------------
+ Copyright (c) 2014-2023 Cajeer Team 
+============================================================
+ This code is protected by copyright.
+ All rights reserved.
+ All trademarks are the property of their respective owners.
+============================================================
+ File: default.skin.php
+------------------------------------------------------------
+ Use: Skin templates
+============================================================
+*/
+
 function HEAD ($p1, $p2 = '') {
 	if ($p1 == 0) $p1 = home_title;
 	else if ($p1 != 0) $p1 = short_title.' | '.$p2;

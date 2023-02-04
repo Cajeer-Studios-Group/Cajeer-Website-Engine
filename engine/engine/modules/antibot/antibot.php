@@ -1,4 +1,22 @@
 <?php 
+/*
+============================================================
+ Cajeer Website Engine - by Cajeer Team 
+------------------------------------------------------------
+ https://cajeer.ru/
+------------------------------------------------------------
+ Copyright (c) 2014-2023 Cajeer Team 
+============================================================
+ This code is protected by copyright.
+ All rights reserved.
+ All trademarks are the property of their respective owners.
+============================================================
+ File: antibot.php
+------------------------------------------------------------
+ Use: CAPTCHA
+============================================================
+*/
+
 session_start();
 $Random = rand(100000, 999999);
 $_SESSION['antibot'] = md5($Random);

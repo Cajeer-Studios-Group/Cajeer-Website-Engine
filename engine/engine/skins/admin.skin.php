@@ -11,9 +11,9 @@
  All rights reserved.
  All trademarks are the property of their respective owners.
 ============================================================
- File: admin.php
+ File: admin.skin.php
 ------------------------------------------------------------
- Use: adminpanel
+ Use: Adminpanel template
 ============================================================
 */
 ?>

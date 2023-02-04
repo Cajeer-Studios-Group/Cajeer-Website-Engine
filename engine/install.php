@@ -11,9 +11,9 @@
  All rights reserved.
  All trademarks are the property of their respective owners.
 ============================================================
- File: admin.php
+ File: install.php
 ------------------------------------------------------------
- Use: adminpanel
+ Use: Script installation
 ============================================================
 */
 ?>
