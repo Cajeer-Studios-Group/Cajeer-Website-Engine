@@ -1,0 +1,19 @@
+Kurzinfo zur Neuinstallation des Scripts auf dem Server:
+
+Liebe Freunde!
+
+Wir danken Ihnen, dass Sie sich entschieden haben, unser Skript für Ihre Website zu verwenden. Obwohl wir große Anstrengungen unternehmen, um das Skript so zugänglich und verständlich wie möglich zu machen, empfehlen wir Ihnen dringend, die vollständige Dokumentation des Skripts zu lesen, bevor Sie damit arbeiten. Die Dokumentation ist verfügbar unter: https://github.com/Cajeer-Team/Cajeer-Website-Engine/wiki.
+
+Installation des Skripts auf dem Server:
+Die Installation des Skripts auf dem Server erfolgt automatisch und sollte keine Probleme bereiten, aber Sie müssen einige Schritte ausführen, um die Zugriffsrechte auf die Ordner zu konfigurieren.
+1. Kopieren Sie zunächst alle Dateien aus dem Ordner /engine/ in diesem Archiv auf Ihren Server.
+2. Setzen Sie den Ordner /templates/ auf beschreibbar (CHMOD 777).
+3. Legen Sie Schreibberechtigungen (CHMOD 777) für die Ordner /backup/, /uploads/ sowie für alle darin enthaltenen Ordner fest.
+4. Legen Sie Schreibberechtigungen (CHMOD 777) für die Ordner /engine/data/, /engine/cache/ fest.
+5. Führen Sie die Datei /install.php aus und folgen Sie den Anweisungen. Der automatische Installer überprüft alle notwendigen Dateien und stellt eine Verbindung zur Datenbank her. Nach Abschluss der Installation können Sie das Skript auf der Demoseite http://website.com/index.php in Aktion sehen. Um auf das Admin-Panel zuzugreifen, müssen Sie http://website.com/admin.php ausführen.
+
+Achtung: Nach der Installation oder Aktualisierung des Skripts auf dem Server unbedingt die Datei /install.php löschen, da sonst die Installation des Skripts erneut gestartet werden kann und dadurch die vorhandene Datenstruktur zerstört wird.
+
+Wir hoffen, dass Ihnen die Arbeit mit unserem Skript nur Freude bereiten wird.
+
+Mit freundlichen Grüßen Cajeer-Team

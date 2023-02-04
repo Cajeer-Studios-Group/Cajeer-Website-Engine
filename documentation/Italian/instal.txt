@@ -1,0 +1,19 @@
+Brevi informazioni sulla nuova installazione dello script sul server:
+
+Cari amici!
+
+Ti ringraziamo per aver scelto di utilizzare il nostro script per il tuo sito. Sebbene facciamo grandi sforzi per rendere lo script il più accessibile e comprensibile possibile, ti consigliamo vivamente di leggere la documentazione completa dello script prima di iniziare a lavorarci. La documentazione è disponibile su: https://github.com/Cajeer-Team/Cajeer-Website-Engine/wiki.
+
+Installazione dello script sul server:
+L'installazione dello script sul server avviene automaticamente e non dovrebbe causare alcun problema, ma è necessario eseguire alcuni passaggi per configurare i diritti di accesso alle cartelle.
+1. Per prima cosa, copia tutti i file dalla cartella /engine/ in questo archivio sul tuo server.
+2. Impostare la cartella /templates/ in modo che sia scrivibile (CHMOD 777).
+3. Impostare i permessi di scrittura (CHMOD 777) per le cartelle /backup/, /uploads/ e per tutte le cartelle al loro interno.
+4. Impostare i permessi di scrittura (CHMOD 777) per le cartelle /engine/data/, /engine/cache/.
+5. Eseguire il file /install.php e seguire le sue istruzioni. Il programma di installazione automatico controllerà tutti i file necessari e creerà una connessione al database. Al termine dell'installazione, puoi vedere lo script in azione sulla pagina demo http://website.com/index.php. Per accedere al pannello di amministrazione, devi eseguire http://website.com/admin.php.
+
+Attenzione: dopo aver installato o aggiornato lo script sul server, assicurarsi di eliminare il file /install.php, altrimenti sarà possibile avviare nuovamente il processo di installazione dello script, distruggendo così la struttura dati esistente.
+
+Speriamo che lavorare con la nostra sceneggiatura ti dia solo piacere.
+
+Cordiali saluti, Cajeer Team.
