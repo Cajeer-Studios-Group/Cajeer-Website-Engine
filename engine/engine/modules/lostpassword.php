@@ -10,9 +10,9 @@
  All rights reserved.
  All trademarks are the property of their respective owners.
 ============================================================
- File: index.php
-------------------------------------------------------------
- Note: Module (recovery) file Open-Source CMS
+ File: lostpassword.php
+-----------------------------------------------------
+ Use: Forgotten password recovery
 ============================================================
 */
 

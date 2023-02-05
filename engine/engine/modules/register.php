@@ -10,9 +10,9 @@
  All rights reserved.
  All trademarks are the property of their respective owners.
 ============================================================
- File: index.php
-------------------------------------------------------------
- Note: Module (register) file Open-Source CMS
+ File: register.php
+-----------------------------------------------------
+ Use: registration of visitors
 ============================================================
 */
 

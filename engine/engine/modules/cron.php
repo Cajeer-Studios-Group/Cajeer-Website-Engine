@@ -1,4 +1,22 @@
 <?php
+/*
+============================================================
+ Cajeer Website Engine - by Cajeer Team 
+------------------------------------------------------------
+ https://cajeer.ru/
+------------------------------------------------------------
+ Copyright (c) 2014-2023 Cajeer Team 
+============================================================
+ This code is protected by copyright.
+ All rights reserved.
+ All trademarks are the property of their respective owners.
+============================================================
+ File: cron.php
+-----------------------------------------------------
+ Use: Performing automatic operations
+============================================================
+*/
+
 define('ROOT_DIR', dirname(__FILE__));
 define('ENGINE_DIR', ROOT_DIR.'/engine');
 include_once ENGINE_DIR.'/data/dbconfig.php';

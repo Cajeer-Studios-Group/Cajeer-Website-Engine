@@ -10,9 +10,9 @@
  All rights reserved.
  All trademarks are the property of their respective owners.
 ============================================================
- File: index.php
-------------------------------------------------------------
- Note: Module (login) file Open-Source CMS
+ File: sitelogin.php
+-----------------------------------------------------
+ Use: authorization of visitors to the site
 ============================================================
 */
 

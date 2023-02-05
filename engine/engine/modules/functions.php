@@ -10,9 +10,7 @@
  All rights reserved.
  All trademarks are the property of their respective owners.
 ============================================================
- File: index.php
-------------------------------------------------------------
- Note: Functions file Open-Source CMS
+ File: functions.php
 ============================================================
 */
 
