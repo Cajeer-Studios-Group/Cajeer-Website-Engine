@@ -4,7 +4,7 @@ ____
 
 <div align="center">
  <img src="https://img.shields.io/badge/downloads-0-green"/>
- <img src="https://img.shields.io/badge/made%20by-skif4er-blue"/>
+ <img src="https://img.shields.io/badge/made%20by-cajeer-blue"/>
  <img src="https://img.shields.io/badge/software-open--source-yellowgreen"/>
  <img src="https://img.shields.io/github/issues/Cajeer-Team/Cajeer-Website-Engine"/>
  <img src="https://img.shields.io/github/forks/Cajeer-Team/Cajeer-Website-Engine"/>
@@ -22,8 +22,8 @@ Cajeer Engine Kit 3 - https://cajeer.ru/cek/demo/
 ### Support
 * Absent
 ### Contributions
-* Blog - https://t.me/sf4blog
-* Discussion - https://t.me/sf4chat
+* Blog - https://cajeer.ru/news/
+* Discussion - https://cajeer.ru/profile/discussions/
 
 ## Description
 **** - 
@@ -34,15 +34,8 @@ Cajeer Engine Kit 3 - https://cajeer.ru/cek/demo/
 ## Usage
 Documentation - https://github.com/Cajeer-Team/Cajeer-Website-Engine/wiki
 
-## Installation
-
-
 ## List of changes
 **[GitHub Changelog](https://github.com/Cajeer-Team/Cajeer-Website-Engine/blob/main/CHANGELOG.md)**
 
 ## License
 **[GitHub License](https://github.com/Cajeer-Team/Cajeer-Website-Engine/blob/main/LICENSE.md)**
-
-____
-
-![](https://github-readme-stats.vercel.app/api?username=theskif4er)
