@@ -33,6 +33,8 @@ Cajeer Engine Kit 3 - https://cajeer.ru/cek/demo/
 
 The creation of a CMS Kit was proposed by SkiF4er for the convenience of creating web resources by Cajeer Team programmers, its easy further management and modification by the customer, as well as for the quick execution of orders based on this CMS Kit, which further led the Cajeer Team to increase orders for web resources based on this CMS Kit. CMS Kit became the hallmark of any development from the Cajeer Team and prophesied a good future for them, but like any CMS Kit it needed to be developed constantly and with high quality, which led to its closure due to the irrelevance of the original components of the CMS Kit and its transfer to Cajeer Web, the last benefited from the further development of the CMS Kit and maintaining it on the CMS Kit market, but Cajeer Web decided to change the license and the principle of its distribution due to Cajeer Web's disinterest in distributing the CMS Kit in a closed form by order and changed it to a commercial form of distribution. Only the structure of the CMS Kit remained unchanged due to its main rule: "Convenience and simplicity are the guarantee of the success of the CMS Kit."
 
+**[more](https://github.com/Cajeer-Team/Cajeer-Website-Engine/blob/main/STORY.md)**
+
 ## Usage
 Documentation - https://github.com/Cajeer-Team/Cajeer-Website-Engine/wiki
 
