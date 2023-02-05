@@ -1,6 +1,6 @@
 #  Cajeer Engine Kit
 
-[2018-2022]: Cajeer Engine Kit - Commercial Project
+[2018-2022]: Cajeer Engine Kit - Commercial Project<br>
 Type: CMS kit<br>
 Developer: Cajeer Web<br>
 Publisher: Cajeer Web<br>
@@ -15,7 +15,7 @@ latest version: 15.0 (12 february 2021)<br>
 State: Closed<br>
 License: CC BY-NC-ND
 
-[2022-2023]: Cajeer Engine Kit 2 - Open-Source Project
+[2022-2023]: Cajeer Engine Kit 2 - Open-Source Project<br>
 Type: CMS kit<br>
 Developer: Cajeer 404<br>
 Publisher: Cajeer Software<br>
@@ -30,7 +30,7 @@ latest version: 2.1.5 (23 july 2021)<br>
 State: Closed<br>
 License: CC BY-SA 
 
-[2023-now]: Cajeer Engine Kit 3 - Open-Source Project
+[2023-now]: Cajeer Engine Kit 3 - Open-Source Project<br>
 Type: CMS kit<br>
 Developer: Cajeer Team<br>
 Publisher: Cajeer Team<br>
