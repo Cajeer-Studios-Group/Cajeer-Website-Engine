@@ -1,48 +1,48 @@
 #  Cajeer Engine Kit
 
 [2018-2022]: Cajeer Engine Kit - Commercial Project
-Type: CMS kit
-Developer: Cajeer Web
-Publisher: Cajeer Web
-Based on: Cajeer Website Engine
-Written in: PHP and JavaScript
-Supported databases: MySQL
-Interface: Web-interface
-Interface languages: Russian, English and German
-First edition: 2018
-Hardware platform: Cross-platform software
-latest version: 15.0 (12 february 2021)
-State: Closed
+Type: CMS kit<br>
+Developer: Cajeer Web<br>
+Publisher: Cajeer Web<br>
+Based on: Cajeer Website Engine<br>
+Written in: PHP and JavaScript<br>
+Supported databases: MySQL<br>
+Interface: Web-interface<br>
+Interface languages: Russian, English and German<br>
+First edition: 2018<br>
+Hardware platform: Cross-platform software<br>
+latest version: 15.0 (12 february 2021)<br>
+State: Closed<br>
 License: CC BY-NC-ND
 
 [2022-2023]: Cajeer Engine Kit 2 - Open-Source Project
-Type: CMS kit
-Developer: Cajeer 404
-Publisher: Cajeer Software
-Based on: Cajeer CMS Engine v1
-Written in: PHP and JavaScript
-Supported databases: MySQL and PostgreSQL
-Interface: Web-interface
-Interface languages: English, German, Spanish, Italian, Russian and French
-First edition: 2022
-Hardware platform: Cross-platform software
-latest version: 2.1.5 (23 july 2021)
-State: Closed
+Type: CMS kit<br>
+Developer: Cajeer 404<br>
+Publisher: Cajeer Software<br>
+Based on: Cajeer CMS Engine v1<br>
+Written in: PHP and JavaScript<br>
+Supported databases: MySQL and PostgreSQL<br>
+Interface: Web-interface<br>
+Interface languages: English, German, Spanish, Italian, Russian and French<br>
+First edition: 2022<br>
+Hardware platform: Cross-platform software<br>
+latest version: 2.1.5 (23 july 2021)<br>
+State: Closed<br>
 License: CC BY-SA 
 
 [2023-now]: Cajeer Engine Kit 3 - Open-Source Project
-Type: CMS kit
-Developer: Cajeer Team
-Publisher: Cajeer Team
-Based on: Cajeer CMS Engine v2
-Written in: PHP and JavaScript
-Supported databases: MySQL
-Interface: Web-interface
-Interface languages: English, Arabic, Spanish, Chinese, Russian and French
-First edition: 2023
-Hardware platform: Cross-platform software
-latest version: 3.0.5 (01 january 2023)
-State: Active
+Type: CMS kit<br>
+Developer: Cajeer Team<br>
+Publisher: Cajeer Team<br>
+Based on: Cajeer CMS Engine v2<br>
+Written in: PHP and JavaScript<br>
+Supported databases: MySQL<br>
+Interface: Web-interface<br>
+Interface languages: English, Arabic, Spanish, Chinese, Russian and French<br>
+First edition: 2023<br>
+Hardware platform: Cross-platform software<br>
+latest version: 3.0.5 (01 january 2023)<br>
+State: Active<br>
 License: CC BY-SA 
 
 ____
