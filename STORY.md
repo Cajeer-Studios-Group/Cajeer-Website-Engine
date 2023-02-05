@@ -26,7 +26,7 @@
 **Interface languages:** English, German, Spanish, Italian, Russian and French<br>
 **First edition:** 2022<br>
 **Hardware platform:** Cross-platform software<br>
-**latest version:** 2.1.5 (23 july 2021)<br>
+**latest version:** 2.15.0 (23 july 2022)<br>
 **State:** Closed<br>
 **License:** CC BY-SA 
 
