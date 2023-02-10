@@ -16,9 +16,7 @@ ____
 ## Demonstration
 Cajeer Website Engine 3 - https://cek.cajeer.ru/ **[УСТАРЕЛО]**
 
-Cajeer Website Engine 4 - https://cwe.cajeer.ru/
-Логин: admin
-Пароль: admin
+Cajeer Website Engine 4 - https://cwe.cajeer.ru/ (Login: admin | Password: admin)
 
 ## Support and contributions to the project
 ### Support
