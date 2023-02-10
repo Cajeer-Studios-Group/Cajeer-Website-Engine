@@ -14,7 +14,7 @@ ____
 </div>
 
 ## Demonstration
-Cajeer Website Engine 3 - https://cek.cajeer.ru/ **[УСТАРЕЛО]**
+Cajeer Website Engine 3 - https://cwe.cajeer.com/ **[УСТАРЕЛО]**
 
 Cajeer Website Engine 4 - https://cwe.cajeer.ru/ (Login: admin | Password: admin)
 
