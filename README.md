@@ -14,9 +14,11 @@ ____
 </div>
 
 ## Demonstration
-Cajeer Website Engine 3 - https://cajeer.com/csp/cek/demo/ **[УСТАРЕЛО]**
+Cajeer Website Engine 3 - https://cek.cajeer.ru/ **[УСТАРЕЛО]**
 
-Cajeer Website Engine 4 - https://cajeer.ru/cek/demo/
+Cajeer Website Engine 4 - https://cwe.cajeer.ru/
+Логин: admin
+Пароль: admin
 
 ## Support and contributions to the project
 ### Support
