@@ -17,7 +17,6 @@
 
 include_once ENGINE_DIR.'/skins/'.skin.'.skin.php';
 include_once ENGINE_DIR.'/modules/functions.php';
-include_once ENGINE_DIR.'/modules/rarog.min.php';
 
 if (!$_SESSION['USER_ACTIVE']) $_SESSION['USER_ACTIVE'] = 0;
 if ($_SESSION['USER_ACTIVE'] != 1 and $_COOKIE['user']) {
@@ -75,30 +74,20 @@ if ($_SERVER['REQUEST_URI'] == '/') {
 		}
 	} else $Module = 'main';
 }
-
+/* !PHP Fatal error!
 if ($_SESSION['USER_ACTIVE']) {
 	if ($Page != 'profile') {
 		$Num = mysqli_fetch_row(mysqli_query($CONNECT, "SELECT COUNT(`id`) FROM `notice` WHERE `status` = 0 AND `uid` = $_SESSION[USER_ID]"));
 		if ($Num[0]) MessageSend(3, LANGSYS04.' <a href="/profile/">'.LANGSYS06.' <b>('.$Num[0].')</b> '.LANGSYS05.'</a>', '', 0);
 	}
 }
-
-if (site_offline == 1 and $REMOTEADDR != '188.232.28.105') include TEMPLATE_DIR.('/offline.php');
+*/
+if (site_offline == 1 and $REMOTEADDR != adminip) include TEMPLATE_DIR.('/offline.php');
 else if ($_SESSION['USER_GROUP'] == -1) include ROOT_DIR.('/templates/banned.php');
 
 else if ($Page == 'index' and $Module == 'index') include TEMPLATE_DIR.('/main.php');
-else if ($Page == 'projects' and $Module == 'main') include TEMPLATE_DIR.('/projects.php');
-else if ($Page == 'engines' and $Module == 'main') include TEMPLATE_DIR.('/engines.php');
 else if ($Page == 'feedback' and $Module == 'main') include TEMPLATE_DIR.('/feedback.php');
-else if ($Page == 'about' and $Module == 'main') include TEMPLATE_DIR.('/about.php');
-else if ($Page == 'cooperation' and $Module == 'main') include TEMPLATE_DIR.('/cooperation.php');
-else if ($Page == 'shop' and $Module == 'main') include TEMPLATE_DIR.('/shop.php');
 else if ($Page == 'account' and $Module == 'main') include TEMPLATE_DIR.('/account.php');
-else if ($Page == 'press' and $Module == 'main') include TEMPLATE_DIR.('/press.php');
-else if ($Page == 'legal' and $Module == 'main') include TEMPLATE_DIR.('/legal.php');
-else if ($Page == 'privacy' and $Module == 'main') include TEMPLATE_DIR.('/privacy.php');
-else if ($Page == 'terms' and $Module == 'main') include TEMPLATE_DIR.('/terms.php');
-else if ($Page == 'cookie-policy' and $Module == 'main') include TEMPLATE_DIR.('/cookie-policy.php');
 else if ($Page == 'profile' and $Module == 'main') include TEMPLATE_DIR.('/userinfo.php');
 
 else if (in_array($Page, array($StaticPages)) and $Module == 'main') include TEMPLATE_DIR.('/$Page.php');

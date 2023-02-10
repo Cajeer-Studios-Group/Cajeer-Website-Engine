@@ -1,0 +1,179 @@
+body
+{
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+#logo
+{
+    float: left;
+
+    width: 274px;
+    height: 213px;
+
+    background-image: url(/templates/RedTie/img/tie_logo.gif);
+}
+#topheader
+{
+    position: relative;;
+
+    float: right;
+
+    width: 526px;
+    height: 97px;
+
+    background-color: #f0f0f0;
+}
+#toplinks
+{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+#menu
+{
+    float: right;
+
+    width: 526px;
+    height: 32px;
+
+    background-image: url(/templates/RedTie/img/bg_menu.gif);
+    background-repeat: repeat-x;
+}
+#submenu
+{
+    float: right;
+
+    width: 526px;
+    height: 32px;
+
+    background-image: url(/templates/RedTie/img/bg_submenu.gif);
+    background-repeat: repeat-x;
+    background-position: top;
+}
+#contenttext
+{
+    float: right;
+
+    width: 526px;
+}
+#leftpanel
+{
+    float: left;
+
+    width: 274px;
+}
+#footer
+{
+    float: left;
+
+    width: 800px;
+    padding: 10px;
+
+    background-color: #f0f0f0;
+}
+.graypanel
+{
+    margin: 10px;
+    padding: 10px;
+
+    border: solid 1px #666;
+    background-color: #f7f7f7;
+}
+.bodytext
+{
+    font: .7em Tahoma, sans-serif;
+
+    color: #666;
+}
+.titletext
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+
+    color: #c00;
+}
+.whitetitle
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+
+    color: #fff;
+}
+.smalltitle
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+    color: #c00;
+}
+.smallwhitetext
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+
+    color: #fff;
+}
+.smallwhitetext a
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: #fff;
+}
+.smallwhitetext a:hover
+{
+    text-decoration: underline;
+}
+.smallgraytext
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+
+    color: #999;
+}
+.smallgraytext a
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: #999;
+}
+.smallgraytext a:hover
+{
+    text-decoration: underline;
+}
+.smallredtext
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+
+    color: #c00;
+}
+.smallredtext a
+{
+    font: .7em Tahoma, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: #c00;
+}
+.smallredtext a:hover
+{
+    text-decoration: underline;
+}
